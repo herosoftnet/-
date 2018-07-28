@@ -2,7 +2,7 @@
 دکتر و داروخانه همراه هوشمند
 ## Privacy Policy
 
-MasterAppDeveloper built the TraficMap app as an Ad Supported app. This SERVICE is provided by MasterAppDeveloper at no cost and is intended for use as is.
+MasterAppDeveloper built the com.ddhway.doctordarohamrah app as an Ad Supported app. This SERVICE is provided by MasterAppDeveloper at no cost and is intended for use as is.
 
 This page is used to inform website visitors regarding my policies with the collection, use, and
                     disclosure of Personal Information if anyone decided to use my Service.
